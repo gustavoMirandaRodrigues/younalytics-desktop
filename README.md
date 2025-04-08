@@ -2,7 +2,7 @@
 
 **Status:** Em desenvolvimento  
 **Tecnologias utilizadas:** Java, MySQL, NetBeans, JDBC  
-**Time de desenvolvedores:** [Seu nome]
+**Time de desenvolvedores:** Gustavo Miranda Rodrigues
 
 ## 🎯 Objetivo do sistema
 
